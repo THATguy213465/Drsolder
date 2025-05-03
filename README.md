@@ -5,7 +5,7 @@ Slack User:
 THATguy
 
 Collaboration with:
-egg_splats
+egg_splats and
 Sewer Gar
 
 Description:
