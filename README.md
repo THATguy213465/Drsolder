@@ -20,7 +20,7 @@ Motor,
 and a potentiometer.
 
 Pictures: 
-![Screenshot 2025-05-02 205228](https://github.com/user-attachments/assets/20d8729b-8479-42ab-8027-9f895eb912fb)
-![Screenshot 2025-05-02 212210](https://github.com/user-attachments/assets/dfc51be1-276d-4cdf-969c-ed700dee7bd4)
-![Screenshot 2025-05-02 212247](https://github.com/user-attachments/assets/dec96ecf-fda9-460a-944d-7653b5ab2e1f)
+![Screenshot 2025-05-02 221940](https://github.com/user-attachments/assets/63bb5be1-70c9-411d-99dd-6cfe1c101d8f)
+![Screenshot 2025-05-02 222004](https://github.com/user-attachments/assets/89f6a27e-d6ce-43cb-90e7-aa78eb25ba30)
+![Screenshot 2025-05-02 222020](https://github.com/user-attachments/assets/4c5a1592-556e-4874-a30d-ba3007890b8c)
 
